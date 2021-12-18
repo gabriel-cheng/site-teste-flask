@@ -20,6 +20,12 @@
             Framework <i>Flask</i>;
         </li>
         <li>
+            <i>HTMl5</i>;
+        </li>
+        <li>
+            <i>CSS3</i>;
+        </li>
+        <li>
             IDE <i>Visual Studio Code (VSCode)</i>;
         </li>
     </ul>
