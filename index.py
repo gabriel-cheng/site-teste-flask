@@ -10,5 +10,9 @@ app = Flask(__name__) # O flask recomenda que você use o nome "app" como nome
 def homepage():
     return "Este é meu primeiro site usando Python/Flask" # Retorna o que eu quero que exiba na página
 
+
+@app.route("/contato")
+def contatos():
+     return "<p>Nosso contato é</p><p>E-mail: gabriel_carvalho.contato@outlook.com</p><p>Celular: (18)99116-3599</p>"
 # Subir o site
 app.run(debug = True) # Carrega o site
