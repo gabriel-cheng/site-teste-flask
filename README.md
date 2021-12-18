@@ -20,7 +20,7 @@
             Framework <i>Flask</i>;
         </li>
         <li>
-            <i>HTMl5</i>;
+            <i>HTML5</i>;
         </li>
         <li>
             <i>CSS3</i>;
