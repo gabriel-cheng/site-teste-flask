@@ -24,6 +24,6 @@ def usuarios(nome_user): # Ela recebe o nome do usuário como parâmetro em "nom
     # Segundo "nome_user" é o parâmetro utilizado na função
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": # É necessário estar dentro desta condicional para carregar o site no servidor
     # Subir o site
     app.run(debug = True) # Carrega o site
