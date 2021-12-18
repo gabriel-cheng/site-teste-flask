@@ -5,6 +5,7 @@
             Este é um simples projeto que tem como objetivo trabalhar com o framework Flask.
         </li>
     </ul>
+    <p>
     <li>
         TECNOLOGIAS EM USO
     </li>
@@ -16,7 +17,7 @@
             Framework <i>Flask</i>;
         </li>
         <li>
-            IDE Visual Studio Code (VSCode);
+            IDE <i>Visual Studio Code (VSCode)</i>;
         </li>
     </ul>
 </ul>
