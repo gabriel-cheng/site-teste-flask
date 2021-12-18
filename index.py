@@ -23,7 +23,7 @@ def usuarios(nome_user): # Ela recebe o nome do usuário como parâmetro em "nom
     # "variavel_nome_html" é o nome da variável que foi importada no corpo do HTML
     # Segundo "nome_user" é o parâmetro utilizado na função
 
-
+# verificar se o módulo é o principal, basicamente só carrega o site se estiver sendo executado no módulo principal 
 if __name__ == "__main__": # É necessário estar dentro desta condicional para carregar o site no servidor
     # Subir o site
     app.run(debug = True) # Carrega o site
